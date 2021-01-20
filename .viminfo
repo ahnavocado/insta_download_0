@@ -10,11 +10,20 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~Msle0~/\<Edit\>
+
 # Command Line History (newest to oldest):
+:wq
+|2,0,1610962388,,"wq"
+:q!
+|2,0,1610959998,,"q!"
 :q
-|2,0,1610935090,,"q"
+|2,0,1610959969,,"q"
 
 # Search String History (newest to oldest):
+? \<Edit\>
+|2,1,1610959904,,"\\<Edit\\>"
 
 # Expression History (newest to oldest):
 
@@ -23,18 +32,280 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	*
+|3,1,36,0,1,0,1610959965,"*"
 
 # File marks:
-'0  2  11  ~/pyinstalive.ini
-|4,48,2,11,1610935090,"~/pyinstalive.ini"
+'0  24  25  /tmp/crontab.7vHhfD/crontab
+|4,48,24,25,1610962388,"/tmp/crontab.7vHhfD/crontab"
+'1  24  32  /tmp/crontab.RBKD10/crontab
+|4,49,24,32,1610962356,"/tmp/crontab.RBKD10/crontab"
+'2  6  46  ~/insta_download_0.sh
+|4,50,6,46,1610962216,"~/insta_download_0.sh"
+'3  2  18  ~/insta_download_0.sh
+|4,51,2,18,1610962152,"~/insta_download_0.sh"
+'4  3  0  ~/insta_download_0.sh
+|4,52,3,0,1610962152,"~/insta_download_0.sh"
+'5  24  28  /tmp/crontab.B5geSw/crontab
+|4,53,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+'6  24  0  /tmp/crontab.AEtJxC/crontab
+|4,54,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+'7  24  7  /tmp/crontab.AEtJxC/crontab
+|4,55,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+'8  1  10  ~/shell_script_0.sh
+|4,56,1,10,1610959863,"~/shell_script_0.sh"
+'9  2  11  ~/pyinstalive.ini
+|4,57,2,11,1610935090,"~/pyinstalive.ini"
 
 # Jumplist (newest first):
--'  2  11  ~/pyinstalive.ini
-|4,39,2,11,1610935090,"~/pyinstalive.ini"
--'  1  0  ~/pyinstalive.ini
-|4,39,1,0,1610934984,"~/pyinstalive.ini"
+-'  24  25  /tmp/crontab.7vHhfD/crontab
+|4,39,24,25,1610962388,"/tmp/crontab.7vHhfD/crontab"
+-'  1  0  /tmp/crontab.7vHhfD/crontab
+|4,39,1,0,1610962371,"/tmp/crontab.7vHhfD/crontab"
+-'  24  32  /tmp/crontab.RBKD10/crontab
+|4,39,24,32,1610962356,"/tmp/crontab.RBKD10/crontab"
+-'  24  32  /tmp/crontab.RBKD10/crontab
+|4,39,24,32,1610962356,"/tmp/crontab.RBKD10/crontab"
+-'  1  0  /tmp/crontab.RBKD10/crontab
+|4,39,1,0,1610962292,"/tmp/crontab.RBKD10/crontab"
+-'  1  0  /tmp/crontab.RBKD10/crontab
+|4,39,1,0,1610962292,"/tmp/crontab.RBKD10/crontab"
+-'  6  46  ~/insta_download_0.sh
+|4,39,6,46,1610962216,"~/insta_download_0.sh"
+-'  6  46  ~/insta_download_0.sh
+|4,39,6,46,1610962216,"~/insta_download_0.sh"
+-'  6  46  ~/insta_download_0.sh
+|4,39,6,46,1610962216,"~/insta_download_0.sh"
+-'  6  46  ~/insta_download_0.sh
+|4,39,6,46,1610962216,"~/insta_download_0.sh"
+-'  2  18  ~/insta_download_0.sh
+|4,39,2,18,1610962191,"~/insta_download_0.sh"
+-'  2  18  ~/insta_download_0.sh
+|4,39,2,18,1610962191,"~/insta_download_0.sh"
+-'  2  18  ~/insta_download_0.sh
+|4,39,2,18,1610962191,"~/insta_download_0.sh"
+-'  2  18  ~/insta_download_0.sh
+|4,39,2,18,1610962191,"~/insta_download_0.sh"
+-'  3  0  ~/insta_download_0.sh
+|4,39,3,0,1610962152,"~/insta_download_0.sh"
+-'  3  0  ~/insta_download_0.sh
+|4,39,3,0,1610962152,"~/insta_download_0.sh"
+-'  3  0  ~/insta_download_0.sh
+|4,39,3,0,1610962152,"~/insta_download_0.sh"
+-'  3  0  ~/insta_download_0.sh
+|4,39,3,0,1610962152,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  1  0  ~/insta_download_0.sh
+|4,39,1,0,1610962102,"~/insta_download_0.sh"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  24  28  /tmp/crontab.B5geSw/crontab
+|4,39,24,28,1610960482,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  1  0  /tmp/crontab.B5geSw/crontab
+|4,39,1,0,1610960388,"/tmp/crontab.B5geSw/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  0  /tmp/crontab.AEtJxC/crontab
+|4,39,24,0,1610959998,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
+-'  24  7  /tmp/crontab.AEtJxC/crontab
+|4,39,24,7,1610959951,"/tmp/crontab.AEtJxC/crontab"
 
 # History of marks within files (newest to oldest):
+
+> /tmp/crontab.7vHhfD/crontab
+	*	1610962384	0
+	"	24	25
+	^	24	26
+	.	24	26
+	+	24	26
+
+> /tmp/crontab.RBKD10/crontab
+	*	1610962353	0
+	"	24	32
+	^	24	33
+	.	24	32
+	+	24	32
+
+> ~/insta_download_0.sh
+	*	1610962214	0
+	"	6	46
+	^	6	47
+	.	6	46
+	+	3	0
+	+	6	46
+
+> /tmp/crontab.B5geSw/crontab
+	*	1610960480	0
+	"	24	28
+	^	24	29
+	.	24	29
+	+	23	28
+	+	24	29
+
+> /tmp/crontab.AEtJxC/crontab
+	*	1610959969	0
+	"	24	0
+	^	24	8
+	.	24	0
+	+	23	28
+	+	24	0
+
+> ~/shell_script_0.sh
+	*	1610959859	0
+	"	1	10
+	^	1	11
+	.	1	11
+	+	1	11
 
 > ~/pyinstalive.ini
 	*	1610935005	0
